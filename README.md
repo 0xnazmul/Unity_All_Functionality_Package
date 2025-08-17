@@ -51,7 +51,7 @@ Drop the prefab into your scene and call:
 
 ```csharp
 AudioManager.Play("soundName");
-
+```
 ## 🤝 Contributing
 
 Feel free to fork this repo, add improvements, and create a pull request.  
